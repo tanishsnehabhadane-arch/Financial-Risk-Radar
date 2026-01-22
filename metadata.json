@@ -1,0 +1,5 @@
+{
+  "name": "Financial Risk Radar",
+  "description": "A high-end fintech dashboard that converts bank transaction data into actionable financial intelligence and risk insights using Gemini AI.",
+  "requestFramePermissions": []
+}
